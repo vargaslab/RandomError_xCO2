@@ -1,5 +1,5 @@
 # random_error_xCO2
-Code to calculate random errors for xCO2 measurements
+Code to calculate random errors for xCO2 measurements for Reimer et al 2016 (https://doi.org/10.1016/j.pocean.2016.02.003)
 
 File name: random_error_xCO2.m
 
